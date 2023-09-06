@@ -13,7 +13,8 @@ All instructions can be found at [draculatheme.com/thumb-key](https://draculathe
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/thumb-key/graphs/contributors).
 
 | [![FOSSMan](https://github.com/0xfossman.png?size=100)](https://github.com/0xfossman) |
-| FOSSMan |
+<br>| FOSSMan |
+
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
